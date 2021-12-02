@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omahmood280
+- 👋 Hi, I’m Owais Mahmood
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: owais280@hotmail.com
